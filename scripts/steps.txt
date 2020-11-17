@@ -1,0 +1,22 @@
+sudo apt-get install libdpkg-dev kernel-package
+export CONCURRENCY_LEVEL=16
+export CONCURRENCYLEVEL=16
+touch REPORTING-BUGS
+sudo fakeroot make-kpkg --initrd kernel-image kernel-headers
+sudo dpkg -i ../*image*.deb ../*header*.deb
+
+------------------------------------------------------------------
+libssl-dev
+gawk
+libaio-dev
+libcunit1-dev
+autoconf
+dh-autoreconf
+asciidoctor
+libkmod-dev
+libudev-dev
+uuid-dev
+libjson-c-dev
+librdmacm-dev
+libibverbs-dev
+

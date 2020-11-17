@@ -1,0 +1,13 @@
+diff --git a/kernel/linux-4.8.12/include/linux/devfs.h b/kernel/linux-4.8.12/include/linux/devfs.h
+index 5d3f08e..8a3de05 100644
+--- a/kernel/linux-4.8.12/include/linux/devfs.h
++++ b/kernel/linux-4.8.12/include/linux/devfs.h
+@@ -23,7 +23,7 @@ typedef __le32  crfss_hash_t;
+  * Use per device thread file pointer linked list
+  * instead of global file pointer linked list
+  */
+-//#define _DEVFS_PER_THREAD_RD_LIST
++#define _DEVFS_PER_THREAD_RD_LIST
+ 
+ /*
+  * Use pthread as device thread instead of kthread

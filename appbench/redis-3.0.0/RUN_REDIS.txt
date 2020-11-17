@@ -1,0 +1,11 @@
+Step 0: Have ParaFS mounted under /mnt/ram/
+
+Step 1: Make Redis:
+> make
+> sudo make install
+
+Step 2: Modify run_benchmark.sh
+- Change PARAFS to be the absolute path in your machine
+
+Step 3: Run Redis benchmark
+> sudo ./run_benchmark.sh

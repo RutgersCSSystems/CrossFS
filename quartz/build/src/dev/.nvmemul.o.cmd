@@ -1,0 +1,1 @@
+cmd_/users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.o := ld -m elf_x86_64   -r -o /users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.o /users/skannan/ssd/fsoffload/quartz/build/src/dev/pmc.o 

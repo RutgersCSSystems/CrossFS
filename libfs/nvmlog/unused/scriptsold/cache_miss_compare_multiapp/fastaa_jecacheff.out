@@ -1,0 +1,198 @@
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9613549.000000
+Benchmark Fasta: usec 9613549, iters 1, usec/run 9613549 score 64.15 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.35339e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9614076.000000
+Benchmark Fasta: usec 9614076, iters 1, usec/run 9614076 score 64.14 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.58805e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9590917.000000
+Benchmark Fasta: usec 9590917, iters 1, usec/run 9590917 score 64.30 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.50348e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9636491.000000
+Benchmark Fasta: usec 9636491, iters 1, usec/run 9636491 score 63.99 runs 1
+Aggregate score: 63
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+------------+
+|           Event           |   core 1   |
++---------------------------+------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.8441e+06 |
++---------------------------+------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9592076.000000
+Benchmark Fasta: usec 9592076, iters 1, usec/run 9592076 score 64.29 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.57834e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9567807.000000
+Benchmark Fasta: usec 9567807, iters 1, usec/run 9567807 score 64.45 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.55571e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 18123493.000000
+Benchmark Fasta: usec 18123493, iters 1, usec/run 18123493 score 34.03 runs 1
+Aggregate score: 34
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+------------+
+|           Event           |   core 1   |
++---------------------------+------------+
+| L2_LINES_IN_THIS_CORE_ALL | 1.5547e+07 |
++---------------------------+------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 18027856.000000
+Benchmark Fasta: usec 18027856, iters 1, usec/run 18027856 score 34.21 runs 1
+Aggregate score: 34
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 1.57565e+07 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 18014612.000000
+Benchmark Fasta: usec 18014612, iters 1, usec/run 18014612 score 34.23 runs 1
+Aggregate score: 34
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 1.51553e+07 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 18390942.000000
+Benchmark Fasta: usec 18390942, iters 1, usec/run 18390942 score 33.53 runs 1
+Aggregate score: 33
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 2.68892e+07 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 18383097.000000
+Benchmark Fasta: usec 18383097, iters 1, usec/run 18383097 score 33.55 runs 1
+Aggregate score: 33
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 2.02592e+07 |
++---------------------------+-------------+

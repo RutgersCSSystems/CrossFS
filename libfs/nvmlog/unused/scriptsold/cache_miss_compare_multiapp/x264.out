@@ -1,0 +1,146 @@
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40112e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 289553
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40564e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 124909
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40171e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 206221
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.39993e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 76709
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40153e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 387168
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40538e+07 |
++-------------------+-------------+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+only one thread allowed
+BASEPROCID 426183
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40667e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 159149
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40256e+07 |
++-------------------+-------------+
+only one thread allowed
+BASEPROCID 7575
+only one thread allowed
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Core Bloomfield processor 
+CPU clock:	2.80 GHz 
+-------------------------------------------------------------
+/home/hendrix/jan12_link/use_case/apps/x264/x264 --output /dev/null --fps 100 --input-res 1080x1080 /home/hendrix/jan12_link/use_case/apps/x264/1080_140MB.mp4
+Status: 0x0 
++-------------------+-------------+
+|       Event       |   core 1    |
++-------------------+-------------+
+| L3_LAT_CACHE_MISS | 4.40423e+07 |
++-------------------+-------------+

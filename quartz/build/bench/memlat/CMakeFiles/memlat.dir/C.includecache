@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/skannan/ssd/fsoffload/quartz/bench/memlat/memlat.c
+stddef.h
+-
+stdint.h
+-
+stdio.h
+-
+assert.h
+-
+pthread.h
+-
+

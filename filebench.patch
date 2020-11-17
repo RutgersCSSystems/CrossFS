@@ -1,0 +1,34 @@
+diff --git a/kernel/linux-4.8.12/fs/crfs/crfs.c b/kernel/linux-4.8.12/fs/crfs/crfs.c
+index acbda01..611320c 100644
+--- a/kernel/linux-4.8.12/fs/crfs/crfs.c
++++ b/kernel/linux-4.8.12/fs/crfs/crfs.c
+@@ -1912,13 +1912,13 @@ int crfss_close(struct inode *inode, struct file *fp){
+ 	//fsnotify_close(fp);
+ 	//fput(fp);
+ 	fp->f_pos = 0;
+-	filp_close(fp, NULL);
++	//filp_close(fp, NULL);
+ 	//put_unused_fd(rd->fd);
+-	/*if (rd->task == NULL) {
++	if (rd->task == NULL) {
+ 		filp_close(fp, NULL);
+ 		return 0;
+ 	}
+-	__close_fd(rd->task->files, rd->fd);*/
++	__close_fd(rd->task->files, rd->fd);
+ 
+ err_rel:
+ 	return retval;
+diff --git a/kernel/linux-4.8.12/include/linux/devfs.h b/kernel/linux-4.8.12/include/linux/devfs.h
+index 5d3f08e..8a3de05 100644
+--- a/kernel/linux-4.8.12/include/linux/devfs.h
++++ b/kernel/linux-4.8.12/include/linux/devfs.h
+@@ -23,7 +23,7 @@ typedef __le32  crfss_hash_t;
+  * Use per device thread file pointer linked list
+  * instead of global file pointer linked list
+  */
+-//#define _DEVFS_PER_THREAD_RD_LIST
++#define _DEVFS_PER_THREAD_RD_LIST
+ 
+ /*
+  * Use pthread as device thread instead of kthread

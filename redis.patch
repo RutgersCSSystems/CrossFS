@@ -1,0 +1,35 @@
+diff --git a/kernel/linux-4.8.12/include/linux/devfs.h b/kernel/linux-4.8.12/include/linux/devfs.h
+index 5d3f08e..2daa780 100644
+--- a/kernel/linux-4.8.12/include/linux/devfs.h
++++ b/kernel/linux-4.8.12/include/linux/devfs.h
+@@ -40,7 +40,7 @@ typedef __le32  crfss_hash_t;
+ /*
+  * Multi process support
+  */
+-//#define CRFS_MULTI_PROC
++#define CRFS_MULTI_PROC
+ 
+ /* 
+ * Perf Tuning flag. Disabling this flag 
+@@ -67,7 +67,7 @@ typedef __le32  crfss_hash_t;
+ #define _DEVFS_SCHEDULER_RCU
+ 
+ /* Temporary flag for open/close optimization */
+-#define CRFS_OPENCLOSE_OPT
++//#define CRFS_OPENCLOSE_OPT
+ 
+ /*
+  * Pre-allocate and reuse fd-queue data buffer instead of 
+diff --git a/libfs/Makefile b/libfs/Makefile
+index 4957672..7ebf0f0 100644
+--- a/libfs/Makefile
++++ b/libfs/Makefile
+@@ -23,7 +23,7 @@ FLAGS+=-DPARAFS_INTERVAL_TREE
+ #FLAGS+=-DREDUCE_CPU_FREQ
+ #FLAGS+=-D_NVMFDQ
+ #FLAGS+=-DPARAFS_SHM
+-FLAGS+=-DCRFS_OPENCLOSE_OPT
++#FLAGS+=-DCRFS_OPENCLOSE_OPT
+ 
+ obj-m := libcrfslib.o
+ KDIR := /lib/modules/`uname -r`/build

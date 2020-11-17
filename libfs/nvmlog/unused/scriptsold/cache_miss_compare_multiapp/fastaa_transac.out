@@ -1,0 +1,54 @@
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9649537.000000
+Benchmark Fasta: usec 9649537, iters 1, usec/run 9649537 score 63.91 runs 1
+Aggregate score: 63
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.39145e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9622701.000000
+Benchmark Fasta: usec 9622701, iters 1, usec/run 9622701 score 64.09 runs 1
+Aggregate score: 64
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.38497e+06 |
++---------------------------+-------------+
+requesting aff 1 0
+thread affinity of async thread 1 
+1 benchmarks registered
+Running Fasta
+usec_per_run 9635913.000000
+Benchmark Fasta: usec 9635913, iters 1, usec/run 9635913 score 64.00 runs 1
+Aggregate score: 63
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/apps/shootbench/bench-framework 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 8.38496e+06 |
++---------------------------+-------------+

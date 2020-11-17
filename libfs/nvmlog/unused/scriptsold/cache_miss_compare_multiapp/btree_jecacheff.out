@@ -1,0 +1,216 @@
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.230000
+search time: 8.180000
+delete time: 10.070000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.68577e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.060000
+search time: 8.160000
+delete time: 10.050000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+------------+
+|           Event           |   core 1   |
++---------------------------+------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.6257e+07 |
++---------------------------+------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.040000
+search time: 8.200000
+delete time: 10.100000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.68225e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.060000
+search time: 8.190000
+delete time: 10.090000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.70693e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.070000
+search time: 8.170000
+delete time: 10.070000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.65853e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.130000
+search time: 8.250000
+delete time: 10.100000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.71375e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.170000
+search time: 8.180000
+delete time: 10.100000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.69665e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.130000
+search time: 8.170000
+delete time: 10.080000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.69411e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.210000
+search time: 8.200000
+delete time: 10.080000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.78874e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.120000
+search time: 8.260000
+delete time: 10.090000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+------------+
+|           Event           |   core 1   |
++---------------------------+------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.6977e+07 |
++---------------------------+------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.110000
+search time: 8.170000
+delete time: 10.080000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+-------------+
+|           Event           |   core 1    |
++---------------------------+-------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.66644e+07 |
++---------------------------+-------------+
+requesting aff 1 4714408
+thread affinity of async thread 1 
+using malloc_ 
+success 
+insert time: 10.060000
+search time: 8.190000
+delete time: 10.090000
+-------------------------------------------------------------
+-------------------------------------------------------------
+CPU type:	Intel Atom 45nm processor 
+CPU clock:	1.66 GHz 
+-------------------------------------------------------------
+/home/sudarsun/nvmalloc/compare_bench/btree-1.0/test 1500000 64 1
++---------------------------+------------+
+|           Event           |   core 1   |
++---------------------------+------------+
+| L2_LINES_IN_THIS_CORE_ALL | 9.7882e+07 |
++---------------------------+------------+

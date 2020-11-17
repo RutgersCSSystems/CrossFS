@@ -1,0 +1,4 @@
+/tmp/litprog2721596/rbtree.c:93:6: warning: 'verify_property_1' defined but not used [-Wunused-function]
+/tmp/litprog2721596/rbtree.c:99:6: warning: 'verify_property_2' defined but not used [-Wunused-function]
+/tmp/litprog2721596/rbtree.c:105:6: warning: 'verify_property_4' defined but not used [-Wunused-function]
+/tmp/litprog2721596/rbtree.c:115:6: warning: 'verify_property_5' defined but not used [-Wunused-function]

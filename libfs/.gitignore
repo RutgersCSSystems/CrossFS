@@ -1,0 +1,11 @@
+# vim temp files
+*.swp
+*.swo
+
+# executable
+*.so
+*.o
+devfs_client
+devfs_client_multifile
+iotest
+test_shim

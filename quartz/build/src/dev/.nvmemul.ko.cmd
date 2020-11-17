@@ -1,0 +1,1 @@
+cmd_/users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.ko /users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.o /users/skannan/ssd/fsoffload/quartz/build/src/dev/nvmemul.mod.o

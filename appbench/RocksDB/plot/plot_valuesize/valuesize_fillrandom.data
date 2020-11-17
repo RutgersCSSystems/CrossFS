@@ -1,0 +1,5 @@
+# thread ext4dax devfs parafs_naive parafs_direct
+100  411 441 482 458
+512  299 365 359 371
+1024  207 241 234 272
+4096  54 38 38 50
