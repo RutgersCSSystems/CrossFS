@@ -29,7 +29,7 @@ In contrast to prior research like DevFS[FAST' 18] that porting the entire appli
 
 CrossFS can be run on both emulated NVM and real Optane-based NVM platform by reserving a region of physical memory (similar to DAX), mounting, and use the region for storing filesystem meta-data and data. 
 
-To enable users to use generally available machine, this documentation will mainly focus on emulated (DAX-based) NVM platform. Users can create a cloudlab instance to run our code (see details below). Unfortunately, the NVM optane (DC memory) used in this study are loaned and requires institutional permissions and with specific OS-version. We will remove the OS version limitations during the final code release.
+To enable users to use generally available machine, this documentation will mainly focus on emulated (DAX-based) NVM platform. Users can create a cloudlab instance to run our code (see details below). 
 
 We currently support Ubuntu-based 16.04 kernels and all pacakge installation scripts use debian. While our changes would also run in 18.04 based Ubuntu kernel, due recent change in one of packages (Shim), we can no longer confirm this. Please see Shim discussion below.
 
