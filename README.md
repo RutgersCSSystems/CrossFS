@@ -128,7 +128,7 @@ sudo sysctl -w fs.file-max=1000000
 #### Get CrossFS source code on Github
 ```
 cd ~/ssd
-git clone https://github.com/RutgersCSHeteroLab/CrossFS
+git clone https://github.com/RutgersCSSystems/CrossFS.git
 ```
 
 #### Install required libraries for CrossFS
